@@ -7,7 +7,7 @@ category: tutorial
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /img/bayes/bayesian-brain1.png
+image: /img/bayes/bayesian-brain1_sq.png
 ---
 
 This guide contains a very simple, yet powerful Machine Learning technique to filter the spam!
