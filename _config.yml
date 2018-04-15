@@ -26,7 +26,6 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
 
@@ -121,7 +120,7 @@ url-pretty: "vova.kuzmenkov0@gmail.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "silversurfer-1"
 
 # Facebook App ID
 # fb_app_id: ""
