@@ -4,6 +4,7 @@ layout: base
 
 {% include header.html type="post" %}
 
+
 <div class="container">
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1">
@@ -64,11 +65,7 @@ layout: base
         </li>
         {% endif %}
       </ul>
-      {% for js in page.jsarr %}
-        <script type="text/javascript">
-        {% include {{ js }} %}
-        </script>
-      {% endfor %}
+      
       {% if page.comments %}
         <div class="disqus-comments">
           {% include disqus.html %}
