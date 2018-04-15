@@ -7,7 +7,7 @@ category: tutorial
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /images/Keras/horn_of_plenty.jpg
+image: /img/Keras/horn_of_plenty.jpg
 ---
 
 This Notebook focuses on NLP techniques combined with Keras-built Neural Networks. The idea is to complete end-to-end project and to understand best approaches to text processing with Neural Networks by myself on practice. The tutorial provides vivid understanding of how to prepare the data for a Neural Network with Keras and how to actually implement and run it.
