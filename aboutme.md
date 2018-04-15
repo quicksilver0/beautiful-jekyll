@@ -15,7 +15,7 @@ What else?
 - oh yes, why "quicksilver"? Well, he is the coolest character in Marvel universe. Check out [this video](https://youtu.be/oynFdbNJ03M) with him saving the Xavier's gifted students.
 
 ### Data Science path
-My Introduction started with a 5-course specialization at University of Michigan Applied Data Science with Python at [courser.org](http://coursera.org)
+My Introduction started with a 5-course specialization at University of Michigan Applied Data Science with Python at [coursera.org](http://coursera.org)
 
 As a great place for practice, connection and discussions with data-science folks all over the world is [Dataquest.io](https://www.dataquest.io)
 
