@@ -7,7 +7,7 @@ category: project
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /img/NYC_schools_exploration_files/NYC_schools_exploration_84_1_small.png
+image: /img/NYC_schools_exploration_files/NYC_schools_exploration_84_1_small_sq.png
 ---
 
 My NYC Schools Exploration project completed with interesting results and great visual. There is quite a number of code lines I've produced, all for the sake of finding out on how good can matplotlib be in drawing visuals. Turns out it is quite capable!
