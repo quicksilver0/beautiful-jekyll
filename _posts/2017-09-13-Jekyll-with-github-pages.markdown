@@ -319,7 +319,7 @@ Copy `default.html` template from gem-based `_layouts` to your local `_layouts` 
 Put this line:
 
 ```
-{% include google-analytics.html %}
+&#123;&#37; include google-analytics.html &#37;&#125;
 ```
 
  in between the opening `<html>` and `<body>` tags of the default.html file.
