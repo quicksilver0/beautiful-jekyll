@@ -258,7 +258,7 @@ plt.show();
 ```
 
 
-![png](/images/Headlines_popularity_files/Headlines_popularity_28_0.png)
+![png](/img/Headlines_popularity_files/Headlines_popularity_28_0.png)
 
 
 Great! We have a clear picture of buzzphrases in HackerNews headlines over 10 years!
