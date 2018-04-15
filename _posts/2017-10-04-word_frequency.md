@@ -7,7 +7,7 @@ category: project
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /images/text_mining/alice03.png
+image: /img/text_mining/alice03.png
 ---
 
 Suppose you want to get top frequent words from a text. This task quickly reveals the caveats: there are swarms of words each with dozens of forms, all those n't and 's and and also commas and periods... All these should be accounted for.
