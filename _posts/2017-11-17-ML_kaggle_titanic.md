@@ -2,7 +2,7 @@
 title: ML framework with Kaggle Titanic competition
 
 date: 2017-11-17
-tags: franework machine learning ml tutorial
+tags: framework machine learning ml tutorial
 category: tutorial
 layout: post
 comments: true
