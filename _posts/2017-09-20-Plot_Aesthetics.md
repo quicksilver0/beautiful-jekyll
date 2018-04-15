@@ -23,7 +23,7 @@ There are few ways to follow:
 First, import matplotlib, instantiate variables and plot graph.
 
 
-```python
+{% highlight javascript linenos %}
 import matplotlib.pyplot as plt
 import numpy as np
 %matplotlib notebook
@@ -38,7 +38,7 @@ width = 0.3
 fig, ax = plt.subplots(figsize=(10,8))
 bars_train = ax.bar(ind, train_score, width, linewidth = 0.3, edgecolor='black', alpha = 0.8, label='Train');
 bars_test = ax.bar(ind+width, test_score, width, linewidth = 0.3, edgecolor='black', alpha = 0.8, label='Test');
-```
+{% endhighlight %}
 
 
     <IPython.core.display.Javascript object>
