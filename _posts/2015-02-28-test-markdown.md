@@ -39,10 +39,12 @@ foo(3)
 And here is the same code with syntax highlighting:
 
 ```javascript
+{% something %}
 var foo = function(x) {
   return(x + 5);
 }
 foo(3)
+{% something %}
 ```
 
 And here is the same code yet again but with line numbers:
