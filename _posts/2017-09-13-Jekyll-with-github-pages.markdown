@@ -318,9 +318,9 @@ Next, we'll enable it on all pages. Doing this is easy: include the google-analy
 Copy `default.html` template from gem-based `_layouts` to your local `_layouts` folder.
 Put this line:
 
-{% highlight javascript linenos %}
+{% highlight python linenos %}
 {% include google-analytics.html %}
-{% highlightend %}
+{% endhighlight %}
 
  in between the opening `<html>` and `<body>` tags of the default.html file.
 **Congratulations! We are done!**
