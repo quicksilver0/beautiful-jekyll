@@ -6,7 +6,7 @@ category: cheatsheet
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /images/Aesthetics/Graph_aesthetics.png
+image: /img/aesthetics_graph.png
 ---
 
 It is always nice to have tidy and visually appealing graphs.
