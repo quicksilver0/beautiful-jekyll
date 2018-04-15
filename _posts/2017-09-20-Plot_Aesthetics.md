@@ -40,7 +40,7 @@ bars_train = ax.bar(ind, train_score, width, linewidth = 0.3, edgecolor='black',
 bars_test = ax.bar(ind+width, test_score, width, linewidth = 0.3, edgecolor='black', alpha = 0.8, label='Test');
 {% endhighlight %}
 
-![the barplot](img/plot-aesthetics.png)
+![the barplot](/img/plot-aesthetics.png)
 
 
 #### Seaborn styling
