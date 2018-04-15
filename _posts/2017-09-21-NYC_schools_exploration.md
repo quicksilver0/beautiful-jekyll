@@ -7,7 +7,7 @@ category: project
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /images/NYC_schools_exploration_files/NYC_schools_exploration_84_1_small.png
+image: /img/NYC_schools_exploration_files/NYC_schools_exploration_84_1_small.png
 ---
 
 My NYC Schools Exploration project completed with interesting results and great visual. There is quite a number of code lines I've produced, all for the sake of finding out on how good can matplotlib be in drawing visuals. Turns out it is quite capable!
@@ -29,7 +29,7 @@ View the [full code and all artifacts on nbviewer](http://nbviewer.jupyter.org/g
 
 ### Findings
 
-![png](/images/NYC_schools_exploration_files/NYC_schools_exploration_84_1.png)
+![png](/img/NYC_schools_exploration_files/NYC_schools_exploration_84_1.png)
 
 Manhattan is by far the most expensive Borough in NYC in terms of apartment price, while schools SAT scores may be decent, but not so impressive.
 
