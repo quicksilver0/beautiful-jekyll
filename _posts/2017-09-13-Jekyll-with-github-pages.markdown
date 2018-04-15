@@ -318,9 +318,7 @@ Next, we'll enable it on all pages. Doing this is easy: include the google-analy
 Copy `default.html` template from gem-based `_layouts` to your local `_layouts` folder.
 Put this line:
 
-~~~
-{% include google-analytics.html %}
-~~~
+`{% include google-analytics.html %}`
 
  in between the opening `<html>` and `<body>` tags of the default.html file.
 **Congratulations! We are done!**
