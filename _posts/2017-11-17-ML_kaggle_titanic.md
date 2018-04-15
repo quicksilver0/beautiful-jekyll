@@ -7,7 +7,7 @@ category: tutorial
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /img/titanic_sinking.gpg
+image: /img/titanic_sinking.jpg
 ---
 Such a renown [Kaggle competition](https://www.kaggle.com/c/titanic). Everyone into Machine Learning had tried to predict, who is more likely to survive: be it a family man, a gentlemen with expensive ticket, or a child? Or maybe someone holding a _Royalty_ title? Yes, there is quite a number of features to learn for a machine!
 
