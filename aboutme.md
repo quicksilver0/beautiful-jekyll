@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me... I mean, work with me
-image: me_Aug_2017_fb_sq.jpg
+subtitle: Why you'd want to go on a date with me... I mean, work
+image: /img/me_Aug_2017_fb_sq.jpg
 ---
 
 Hi, I'm Vladimir, a Data Science enthusiast.
