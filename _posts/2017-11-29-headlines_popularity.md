@@ -346,7 +346,7 @@ plt.show();
 ```
 
 
-![png](img/Headlines_popularity_files/Headlines_popularity_38_0.png)
+![png](/img/Headlines_popularity_files/Headlines_popularity_38_0.png)
 
 
 Fair enough, most frequent publishing happened during evenings.
@@ -381,7 +381,7 @@ plt.show();
 ```
 
 
-![png](/images/Headlines_popularity_files/Headlines_popularity_45_0.png)
+![png](/img/Headlines_popularity_files/Headlines_popularity_45_0.png)
 
 
 It is very evident that articles with *headlines of 80 characters and more are unpopular* (except a few exceptions).
