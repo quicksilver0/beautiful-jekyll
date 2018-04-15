@@ -7,7 +7,7 @@ category: tutorial
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /images/machine_learning/forest.jpg
+image: /img/machine_learning/forest.jpg
 ---
 This is a solid and quick Machine Learning tutorial that leads through the steps of building a best prediction model. It allows to get understanding of the process and provides with code examples.
 
@@ -18,7 +18,7 @@ Originally built on a project I've completed for Michigan University course [App
 
 
 
-![English Forest](/images/machine_learning/forest.jpg "In Machine Learning you may grow Forests!")
+![English Forest](/img/machine_learning/forest.jpg "In Machine Learning you may grow Forests!")
 
 *Picture of English Forest is not accidental. In machine Learning you can grow trees. Thousands of them!*
 
