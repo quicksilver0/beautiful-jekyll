@@ -6,7 +6,7 @@ category: project
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /img/Headlines_popularity_files/HN_buzzphrases.gif
+image: /img/Headlines_popularity_files/HN_buzzphrases_sq.jpg
 jsarr:
      - graphs/hn_buzz.js
 ---
