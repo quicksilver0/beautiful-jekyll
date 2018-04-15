@@ -6,7 +6,7 @@ category: tutorial
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /images/Mapping-the-data_8_1_small.png
+image: /img/Mapping-the-data_8_1_small.png
 ---
 
 Basemap is a powerful yet simple tool for python and allows to plot visualizations geography-wise by providing coordinates.
@@ -57,7 +57,7 @@ draw_map()
 plt.show()
 ```
 
-![png]({{ site.url }}/images/Mapping-the-data_files/Mapping-the-data_2_1.png)
+![png](/img/Mapping-the-data_files/Mapping-the-data_2_1.png)
 
 
 ### Draw routes via greatcircles
@@ -90,7 +90,7 @@ create_great_circles(dfw) # Add great circles (routes)
 plt.show()
 ```
 
-![png]({{ site.url }}/images/Mapping-the-data_files/Mapping-the-data_4_1.png)
+![png](/img/Mapping-the-data_files/Mapping-the-data_4_1.png)
 
 
 ### Improve aesthetics
@@ -112,7 +112,7 @@ m.drawcountries()
 plt.show()
 ```
 
-![png]({{ site.url }}/images/Mapping-the-data_files/Mapping-the-data_6_1.png)
+![png](/img/Mapping-the-data_files/Mapping-the-data_6_1.png)
 
 
 #### NASA Marble and other backgrounds
@@ -135,7 +135,7 @@ m.bluemarble()
 plt.show()
 ```
 
-![png]({{ site.url }}/images/Mapping-the-data_files/Mapping-the-data_8_1.png)
+![png](/img/Mapping-the-data_files/Mapping-the-data_8_1.png)
 
 
 Other style examples
