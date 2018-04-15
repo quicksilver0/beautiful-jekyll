@@ -6,7 +6,7 @@ category: project
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /images/Headlines_popularity_files/HN_buzzphrases.gif
+image: /img/Headlines_popularity_files/HN_buzzphrases.gif
 jsarr:
      - graphs/hn_buzz.js
 ---
@@ -346,7 +346,7 @@ plt.show();
 ```
 
 
-![png](Headlines_popularity_files/Headlines_popularity_38_0.png)
+![png](img/Headlines_popularity_files/Headlines_popularity_38_0.png)
 
 
 Fair enough, most frequent publishing happened during evenings.
@@ -411,7 +411,7 @@ plt.show();
 ```
 
 
-![png](/images/Headlines_popularity_files/Headlines_popularity_50_0.png)
+![png](/img/Headlines_popularity_files/Headlines_popularity_50_0.png)
 
 
 More and more articles got upvoted over time, a good representation of HackerNews growing popularity.
