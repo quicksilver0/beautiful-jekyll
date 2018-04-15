@@ -7,7 +7,7 @@ category: tutorial
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /img/machine_learning/forest.jpg
+image: /img/machine_learning/forest_sq.jpg
 ---
 This is a solid and quick Machine Learning tutorial that leads through the steps of building a best prediction model. It allows to get understanding of the process and provides with code examples.
 
