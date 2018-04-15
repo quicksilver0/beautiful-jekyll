@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me... I mean, work
+subtitle: Why you'd want to go on a date... I mean, work with me
 image: /img/me_Aug_2017_fb_sq.jpg
 ---
 
