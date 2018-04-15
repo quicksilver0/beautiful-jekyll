@@ -1,16 +1,22 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you'd want to go on a date with me... I mean, work with me
+image: me_Aug_2017_fb_sq.jpg
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi, I'm Vladimir, a Data Science enthusiast.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am very passionate. Data Science, Data Analysis, Deep Learning, AI - are most interesting for me, ironically are most boring for many others! I might dive very deep with my head into some DS project for a week or more to a point of day and night become indistinguishable, to come up later on with a sense of accomplishment and deep gratification. Yes, this is how it happens sometimes.
 
-What else do you need?
+What else?
+- I'm a vegetarian, sometimes rawtarian, and also into ecology a lot.
 
-### my history
+### Data Science path
+My Introduction started with a 5-course specialization at University of Michigan Applied Data Science with Python.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+As a great place for practice, connection and discussions with data-science folks all over the world is [Dataquest.io](https://www.dataquest.io)
+
+And an awesome 5-course Specialization on Deep Learning at [deeplearning.ai](http://deeplearning.ai) by amazing Andrew Ng (yes, people call him that).
+
+Thanks for visiting my blog!
