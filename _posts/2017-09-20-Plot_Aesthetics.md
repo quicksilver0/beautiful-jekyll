@@ -23,7 +23,7 @@ There are few ways to follow:
 First, import matplotlib, instantiate variables and plot graph.
 
 
-{% highlight javascript linenos %}
+{% highlight python linenos %}
 import matplotlib.pyplot as plt
 import numpy as np
 %matplotlib notebook
