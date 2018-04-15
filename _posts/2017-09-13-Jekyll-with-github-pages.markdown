@@ -219,10 +219,7 @@ Ok, keeping above in mind, lets do the following:
 Create `_includes` folder in  `username.github.io` directory. Then create a file `disqus_comments.html` inside, with the contents:
 
 ```javascript
-{% if page.comments %}
 
-
-{% endif %}
 ```
 
 Any code in between these two lines will be included if Front Matter for that page has `comments: true`.
@@ -230,7 +227,6 @@ Go to [Disqus to get Universal Code](https://silverthread.disqus.com/admin/insta
 Now `disqus_comments.html` should look as following:
 
 ```javascript
-{% if page.comments %}
 
 <div id="disqus_thread"></div>
 
@@ -256,7 +252,6 @@ Now `disqus_comments.html` should look as following:
   <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
                             
 
-{% endif %}
 ```
 
 Please note, that `s.src` is given for my website! Disqus should provide you with your own url.
@@ -265,7 +260,7 @@ Next, copy `post.html` template from gem-based `_layouts` to local `_layouts` fo
 In this layout template we'll put one-line code that would include disqus comments to any post we want. So, just above the closing `</article>` tag add the following:
 
 ```javascript
-{% include disqus_comments.html %}
+{&#37; include disqus_comments.html &#37;}
 ```
 
 Cool!
