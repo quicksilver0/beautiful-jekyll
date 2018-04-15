@@ -6,7 +6,7 @@ category: tutorial
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /img/Mapping-the-data_files/Mapping-the-data_8_1_small.png
+image: /img/Mapping-the-data_files/Mapping-the-data_8_1_small_sq.png
 ---
 
 Basemap is a powerful yet simple tool for python and allows to plot visualizations geography-wise by providing coordinates.
