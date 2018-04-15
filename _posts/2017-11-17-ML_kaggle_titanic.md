@@ -7,7 +7,7 @@ category: tutorial
 layout: post
 comments: true
 excerpt_separator: <!--more-->
-image: /images/titanic_sinking.gpg
+image: /img/titanic_sinking.gpg
 ---
 Such a renown [Kaggle competition](https://www.kaggle.com/c/titanic). Everyone into Machine Learning had tried to predict, who is more likely to survive: be it a family man, a gentlemen with expensive ticket, or a child? Or maybe someone holding a _Royalty_ title? Yes, there is quite a number of features to learn for a machine!
 
@@ -15,7 +15,7 @@ Let's dive into this tutorial which is more of presentation of my top notch fram
 
 _Btw, [dataquest.io](dataquest.io) is a great platform and a community to learn some great things!_
 
-![title](/images/titanic_sinking.jpg)
+![title](/img/titanic_sinking.jpg)
 <!--more-->
 
 
@@ -60,7 +60,7 @@ plt.show();
 ```
 
 
-![png](/images/Kaggle_titanic_publish_files/Kaggle_titanic_publish_8_0.png)
+![png](/img/Kaggle_titanic_publish_files/Kaggle_titanic_publish_8_0.png)
 
 
 A very vivid barplot.
@@ -75,7 +75,7 @@ plt.show();
 ```
 
 
-![png](/images/Kaggle_titanic_publish_files/Kaggle_titanic_publish_11_0.png)
+![png](/img/Kaggle_titanic_publish_files/Kaggle_titanic_publish_11_0.png)
 
 
 A class disparity is very well seen.
@@ -110,7 +110,7 @@ plt.show();
 ```
 
 
-![png](/images/Kaggle_titanic_publish_files/Kaggle_titanic_publish_14_0.png)
+![png](/img/Kaggle_titanic_publish_files/Kaggle_titanic_publish_14_0.png)
 
 
 We can see that infants were the first to be saved. Which is obvious if to think about, small babies take least space and people tend to take all of them onboard. Other groups are not that obvious, even though 20-40 years are displayed more frequent than 10 y/olds on the graph, maybe it is just that there were almost no 10 y/olds on Titanic at all?
@@ -178,7 +178,7 @@ plt.show();
 ```
 
 
-![png](/images/Kaggle_titanic_publish_files/Kaggle_titanic_publish_23_0.png)
+![png](/img/Kaggle_titanic_publish_files/Kaggle_titanic_publish_23_0.png)
 
 
 We can also bin Fare costs to groups.
@@ -312,7 +312,7 @@ plt.show();
 ```
 
 
-![png](/images/Kaggle_titanic_publish_files/Kaggle_titanic_publish_37_0.png)
+![png](/img/Kaggle_titanic_publish_files/Kaggle_titanic_publish_37_0.png)
 
 
 We can see that passengers with higher children count were very likely to survive. While those who had no family aboard had survival chance of only 30%.
@@ -440,7 +440,7 @@ plot_correlation_heatmap(train_preprocessed)
 ```
 
 
-![png](/images/Kaggle_titanic_publish_files/Kaggle_titanic_publish_54_0.png)
+![png](/img/Kaggle_titanic_publish_files/Kaggle_titanic_publish_54_0.png)
 
 
 Ok, obviously `Sex_female/Sex_male` and `Title_Miss/Title_Mr/Title_Mrs` are very salient on the heatmap. We'll remove `Sex_female/male` completely and leave out `Title_Mr/Mrs/Miss` as more nuanced.
