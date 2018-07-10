@@ -1,13 +1,11 @@
 ---
-title: Cheatsheet: Data Preprocessing
-
-date: 2018-07-10
-tags: cheatsheet preprocessing
-category: cheatsheet
 layout: post
-comments: true
-
+title: Cheatsheet: Data Preprocessing
+date: 2018-07-10
+category: cheatsheet
+tags: [cheatsheet preprocessing]
 ---
+
 This is a cheatsheet article with steps on data preprocessing required for deep learning endeavors.
 
 ### Read in and slice
