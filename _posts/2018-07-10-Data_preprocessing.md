@@ -7,7 +7,7 @@ tags: [cheatsheet preprocessing]
 
 This is a cheatsheet article with steps on data preprocessing required for deep learning endeavors.
 
-Read in and slice
+###  Read in and slice
 First read in dataset and choose relevant columns.
 
 
