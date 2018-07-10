@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Cheatsheet: Data Preprocessing
+title: Cheatsheet on Data Preprocessing
 date: 2018-07-10
-category: cheatsheet
 tags: [cheatsheet preprocessing]
 ---
 
